@@ -11,10 +11,10 @@
   
   
   [![Parsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParsaSabagh&theme=tokyonight&show_icons=true)](https://github.com/ParsaSabagh)
-  </br>
+  
+  [![Card](https://github-readme-streak-stats.herokuapp.com/?user=ParsaSabagh&theme=tokyonight&show_icons=true)](https://github.com/ParsaSabagh)
+    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaSabagh&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/ParsaSabagh)
-  </br>
-  [![something](https://github-readme-streak-stats.herokuapp.com/?user=ParsaSabagh&theme=tokyonight&show_icons=true)](https://github.com/ParsaSabagh)
   
   <h2>
     You can contact me through : 
