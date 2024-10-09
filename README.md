@@ -3,7 +3,7 @@
   
   **Hi**
   
-  I am **Mohammad Parsa Sabaghzadegan** and I am an earthuake engineering student
+  I am **Mohammad Parsa Sabaghzadegan** and I am a civil engineering student
   
   I'm learning **Python** and My goal is to become a **Python developer** 
   
